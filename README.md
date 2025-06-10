@@ -137,36 +137,6 @@ Interests:
 └──╼ $ python3 physics_ml.py
 ```
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class PhysicsEngineer:
-    def __init__(self):
-        self.name = "Santiago Ochoa"
-        self.role = "ML Engineer & Risk Analyst"
-        self.knowledge = ["Generative Models", "Statistical Learning", 
-                            "Reinforcement Learning", "Bayesian Inference",
-                            "Complex Systems", "Mathematical Modeling"]
-
-    def apply_physics_to_ml(self):
-        return {
-            "optimization": "Gradient descent ≈ Energy minimization",
-            "neural_nets": "Neurons ≈ Spin systems",
-            "embeddings": "High-D spaces ≈ Phase spaces",
-            "GAN superresolution": "CycleGAN ≈ Phase retrieval"
-        }
-    
-    def daily_routine(self):
-        while True:
-            self.reduce_entropy()
-            self.analyze_risks()
-            self.build_models()
-            self.automate_processes()
-            if self.is_weekend():
-                self.fork_reality()
-```
-
 <!-- Connect Section -->
 ```bash
 ┌──[santiago@archlinux]─[~/connect]
