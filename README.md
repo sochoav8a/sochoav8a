@@ -34,7 +34,9 @@
 + [OK] Shell: /bin/zsh
 + [OK] Uptime: Coding since 2019
 ! [RUNNING] Current Process: Building AI Models
-# [ACTIVE] Coffee Level: ████████░░ 80%
+# [ACTIVE] Entropy Level: ████████░░ 80% (Decreasing)
+# [ACTIVE] Neural Networks: ████████░░ 80% Activated
+# [ACTIVE] Risk Tolerance: ████████░░ 80% Calculated
 ```
 
 </div>
@@ -60,8 +62,7 @@ Interests:
   - Machine Learning & AI
   - Mathematical Modeling  
   - Process Automation
-  - Quantum Computing
-  - Specialty Coffee ☕
+  - Risk-Driven Engineer 🎲
 ```
 
 <!-- Tech Stack Terminal -->
@@ -109,11 +110,7 @@ Interests:
 │   ├── description: "AI text generator in Shakespeare style"
 │   ├── model: "Transformer architecture"
 │   └── tech: ["Transformers", "FastAPI", "NLP"]
-│
-└── 🎯 Risk-Analysis-Models/
-    ├── description: "ML models for betting risk assessment"
-    ├── accuracy: "92% fraud detection rate"
-    └── tech: ["XGBoost", "Neural Networks", "Real-time processing"]
+
 ```
 
 </details>
@@ -148,25 +145,26 @@ class PhysicsEngineer:
     def __init__(self):
         self.name = "Santiago Ochoa"
         self.role = "ML Engineer & Risk Analyst"
-        self.knowledge = ["Quantum Mechanics", "Statistical Physics", 
-                         "Complex Systems", "Mathematical Modeling"]
-        
+        self.knowledge = ["Generative Models", "Statistical Learning", 
+                            "Reinforcement Learning", "Bayesian Inference",
+                            "Complex Systems", "Mathematical Modeling"]
+
     def apply_physics_to_ml(self):
         return {
             "optimization": "Gradient descent ≈ Energy minimization",
             "neural_nets": "Neurons ≈ Spin systems",
             "embeddings": "High-D spaces ≈ Phase spaces",
-            "uncertainty": "Bayesian ML ≈ Statistical mechanics"
+            "GAN superresolution": "CycleGAN ≈ Phase retrieval"
         }
     
     def daily_routine(self):
         while True:
-            self.drink_coffee()
+            self.reduce_entropy()
             self.analyze_risks()
             self.build_models()
             self.automate_processes()
             if self.is_weekend():
-                self.contribute_open_source()
+                self.fork_reality()
 ```
 
 <!-- Connect Section -->
@@ -187,12 +185,11 @@ class PhysicsEngineer:
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  "The universe is written in the language of mathematics" - Galileo        │
-│   But I prefer Python for the implementation 🐍                            │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║ > EXIT                                                                        ║
+║ Connection to the Matrix terminated...                                        ║
+║ Wake up, Santiago... The Matrix has you...                                    ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
