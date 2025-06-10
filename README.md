@@ -176,7 +176,7 @@ class PhysicsEngineer:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sochoav1/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=githubpages&logoColor=black)](https://sochoav8a.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=githubpages&logoColor=white)](https://sochoav8a.github.io/)
 [![Email](https://img.shields.io/badge/Email-bd00ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sochoav8a@gmail.com)
 
 </div>
