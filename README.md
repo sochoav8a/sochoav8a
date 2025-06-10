@@ -18,11 +18,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Risk+Analyst+%40+Betting+Industry;ML+Engineer+%7C+Automation+Expert;Physics+Engineer+%7C+Mathematics+Lover;Arch+Linux+Enthusiast;Coffee-Driven+Developer+%E2%98%95" alt="Typing SVG" />
 
+<div>
 <img src="ghost.gif" alt="Ghost" width="120">
 
 ***"literally me"***
 
-</div>
+<img/div
 
 <!-- System Status -->
 <div align="center">
