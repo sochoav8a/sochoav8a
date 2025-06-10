@@ -23,7 +23,7 @@
 
 ***"literally me"***
 
-<img/div
+<div>
 
 <!-- System Status -->
 <div align="center">
