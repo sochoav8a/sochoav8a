@@ -122,8 +122,8 @@ Interests:
 ```
 
 <div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sochoav8a&theme=radical&hide_border=true&stroke=00ff41&ring=bd00ff&fire=ff006e&background=0d1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav8a&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=a0a0a0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sochoav8a&theme=radical&hide_border=true&stroke=00ff41&ring=bd00ff&fire=ff006e&background=0d1117&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sochoav8a&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=a0a0a0&count_private=true" />
 </div>
 
 <!-- Activity Graph -->
